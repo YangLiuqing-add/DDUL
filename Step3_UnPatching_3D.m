@@ -1,11 +1,11 @@
-%Improved from O M. Saad, This 3D UnPatching is created by Liuqing Yang
+%Inspired from O M. Saad, This 3D UnPatching is created by Liuqing Yang
 %28-4-2021
 
 % References: 
 
-% [1] O. M. Saad and Y. Chen, 2020, ¡°Deep denoising autoencoder for seismic random noiseattenuation,¡±Geophysics, vol. 85, no. 4, pp. V367¨CV376, 
-% [3] Y. Chen, 2020, ¡°Fast dictionary learning for noise attenuation of multidimensional seismicdata,¡±Geophysical Journal International, vol. 221, no. 3, pp. 1717¨C1727, 
-% [2] O. M. Saad and Y. Chen, 2020, ¡°A  fully¨Cunsupervised  and  highly-generalized  deep  learning  approach  forrandom  noise  suppression,¡±Geophysical Prospecting,  pp.  doi:  10.1111/1365¨C2478.13 062, 202
+% [1] O. M. Saad and Y. Chen, 2020, Â¡Â°Deep denoising autoencoder for seismic random noiseattenuation,Â¡Â±Geophysics, vol. 85, no. 4, pp. V367Â¨CV376, 
+% [3] Y. Chen, 2020, Â¡Â°Fast dictionary learning for noise attenuation of multidimensional seismicdata,Â¡Â±Geophysical Journal International, vol. 221, no. 3, pp. 1717Â¨C1727, 
+% [2] O. M. Saad and Y. Chen, 2020, Â¡Â°A  fullyÂ¨Cunsupervised  and  highly-generalized  deep  learning  approach  forrandom  noise  suppression,Â¡Â±Geophysical Prospecting,  pp.  doi:  10.1111/1365Â¨C2478.13 062, 202
 
 % Preparing the patches for the DDUL
 clc
