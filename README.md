@@ -1,7 +1,7 @@
 ## Demo code for:
 
 # Unsupervised 3D Random Noise Attenuation Using Deep Skip Autoencoder  
-By Liuqing Yang, Shoudong Wang, Xiaohong Chen, Omar M. Saad, Wei Chen, Yapo Abolé Serge Innocent Oboué, Yangkang Chen
+By [Liuqing Yang](https://www.researchgate.net/profile/Liuqing-Yang-22), [Shoudong Wang](https://www.researchgate.net/profile/Shoudong-Wang-2), [Xiaohong Chen](https://www.cup.edu.cn/geophysics/szdw/gccrc/155636.htm), [Omar M. Saad](https://www.researchgate.net/profile/Omar-M-Saad), [Wei Chen](https://www.researchgate.net/profile/Wei_Chen285), [Yapo Abolé Serge Innocent Oboué](https://www.researchgate.net/profile/Yapo-Abole-Serge-Innocent-Oboue-2), [Yangkang Chen](https://www.researchgate.net/profile/Yangkang-Chen-2)
 
 A test package including a test dataset and the trained model.  
 
