@@ -11,10 +11,8 @@ By [Liuqing Yang](https://www.researchgate.net/profile/Liuqing-Yang-22), [Shoudo
 
 ### Introduction
 
-This repository contains an original model (DDUL) described in the paper "Unsupervised 3-D Random Noise Attenuation Using Deep Skip Autoencoder"(https://www.researchgate.net/publication/353767378_Unsupervised_3-D_Random_Noise_Attenuation_Using_Deep_Skip_Autoencoder). DDUL is inspired by "A fully-unsupervised and highly-generalized deep learning approach for random noise suppression"(https://www.researchgate.net/publication/347507607_A_fully-unsupervised_and_highly-generalized_deep_learning_approach_for_random_noise_suppression)
+This repository contains an original model (DDUL) described in the paper "Unsupervised 3-D Random Noise Attenuation Using Deep Skip Autoencoder" (https://www.researchgate.net/publication/353767378_Unsupervised_3-D_Random_Noise_Attenuation_Using_Deep_Skip_Autoencoder), and includes a test dataset. DDUL is inspired by "A fully-unsupervised and highly-generalized deep learning approach for random noise suppression" (https://www.researchgate.net/publication/347507607_A_fully-unsupervised_and_highly-generalized_deep_learning_approach_for_random_noise_suppression). 
 
-
-A test package including a test dataset and the trained model.  
 
 For 2D seismic data 
 First, run "Step1_Patching.m" in Matlab. 
