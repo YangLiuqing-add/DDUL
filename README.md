@@ -1,5 +1,13 @@
 ## Demo code for:
 
+
+![GitHub last commit](https://img.shields.io/github/last-commit/YangLiuqing-add/DDUL?style=plastic)    
+![GitHub stars](https://img.shields.io/github/stars/YangLiuqing-add/DDUL?style=social)
+![GitHub followers](https://img.shields.io/github/followers/DDUL?style=social)
+![GitHub forks](https://img.shields.io/github/forks/YangLiuqing-add/DDUL?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/YangLiuqing-add/DDUL?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/YangLiuqing-add?style=social)
+
 # Unsupervised 3D Random Noise Attenuation Using Deep Skip Autoencoder  
 By [Liuqing Yang](https://www.researchgate.net/profile/Liuqing-Yang-22), [Shoudong Wang](https://www.researchgate.net/profile/Shoudong-Wang-2), [Xiaohong Chen](https://www.cup.edu.cn/geophysics/szdw/gccrc/155636.htm), [Omar M. Saad](https://www.researchgate.net/profile/Omar-M-Saad), [Wei Chen](https://www.researchgate.net/profile/Wei_Chen285), [Yapo Abolé Serge Innocent Oboué](https://www.researchgate.net/profile/Yapo-Abole-Serge-Innocent-Oboue-2), [Yangkang Chen](https://www.researchgate.net/profile/Yangkang-Chen-2)
 
@@ -12,6 +20,18 @@ By [Liuqing Yang](https://www.researchgate.net/profile/Liuqing-Yang-22), [Shoudo
 ### Introduction
 
 This repository contains an original model (DDUL) described in the paper "Unsupervised 3-D Random Noise Attenuation Using Deep Skip Autoencoder" (https://www.researchgate.net/publication/353767378_Unsupervised_3-D_Random_Noise_Attenuation_Using_Deep_Skip_Autoencoder), and includes a test dataset. DDUL is inspired by "A fully-unsupervised and highly-generalized deep learning approach for random noise suppression" (https://www.researchgate.net/publication/347507607_A_fully-unsupervised_and_highly-generalized_deep_learning_approach_for_random_noise_suppression). 
+
+# Citation
+
+If you use these models in your research, please cite:
+
+    @article{yang2021,
+     title={Unsupervised 3-D Random Noise Attenuation Using Deep Skip Autoencoder},
+     author={Yang, Liuqing and Wang, Shoudong and Chen, Xiaohong and Saad, Omar M and Chen, Wei and Oboué, Yapo Abolé Serge Innocent and Chen, Yangkang},
+     journal={IEEE Transactions on Geoscience and Remote Sensing},
+     year={2021},
+     publisher={IEEE}
+    }     
 
 
 For 2D seismic data 
