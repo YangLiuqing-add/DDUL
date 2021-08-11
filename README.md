@@ -24,7 +24,7 @@ This repository contains an original model (DDUL) described in the paper "Unsupe
 
 ### Citation
 
-If you use these models in your research, please cite:
+If you use this model in your research, please cite:
 
     @article{yang2021,
      title={Unsupervised 3-D Random Noise Attenuation Using Deep Skip Autoencoder},
