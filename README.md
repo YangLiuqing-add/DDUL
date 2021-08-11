@@ -59,7 +59,7 @@ In Matlab, you should chose the 0 or 1 to select synthetic or field data. In Pyt
 ### Results
 
 
-[Architecture of DDUL](https://github.com/YangLiuqing-add/DDUL/blob/main/Figure/Architecture.eps)
+![Architecture of DDUL](https://github.com/YangLiuqing-add/DDUL/blob/main/Figure/Architecture.eps)
 
 
 
