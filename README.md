@@ -8,7 +8,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/YangLiuqing-add/DDUL?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/YangLiuqing-add?style=social)
 
-[[Paper]](https://github.com/YangLiuqing-add/DDUL/blob/main/Step2_DDUL.ipynb](https://ieeexplore.ieee.org/document/9508496))
+[[Paper]](https://ieeexplore.ieee.org/document/9508496）
 [[Demo code]](https://github.com/YangLiuqing-add/DDUL/blob/main/Step2_DDUL.ipynb)
 # Unsupervised 3D Random Noise Attenuation Using Deep Skip Autoencoder  
 
