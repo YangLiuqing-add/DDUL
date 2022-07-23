@@ -1,5 +1,4 @@
 ## Demo code for:
- [[Code]](https://github.com/YangLiuqing-add/DDUL/blob/main/Step2_DDUL.ipynb)
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/YangLiuqing-add/DDUL?style=plastic)    
@@ -8,8 +7,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/YangLiuqing-add/DDUL?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/YangLiuqing-add/DDUL?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/YangLiuqing-add?style=social)
-
 # Unsupervised 3D Random Noise Attenuation Using Deep Skip Autoencoder  
+[[Demo code]]([https://github.com/YangLiuqing-add/DDUL/blob/main/Step2_DDUL.ipynb](https://ieeexplore.ieee.org/document/9508496)) [[Demo code]](https://github.com/YangLiuqing-add/DDUL/blob/main/Step2_DDUL.ipynb)
 By [Liuqing Yang](https://www.researchgate.net/profile/Liuqing-Yang-22), [Shoudong Wang](https://www.researchgate.net/profile/Shoudong-Wang-2), [Xiaohong Chen](https://www.cup.edu.cn/geophysics/szdw/gccrc/155636.htm), [Omar M. Saad](https://www.researchgate.net/profile/Omar-M-Saad), [Wei Chen](https://www.researchgate.net/profile/Wei_Chen285), [Yapo Abolé Serge Innocent Oboué](https://www.researchgate.net/profile/Yapo-Abole-Serge-Innocent-Oboue-2), [Yangkang Chen](https://www.researchgate.net/profile/Yangkang-Chen-2)
 
 ### Table of Contents
