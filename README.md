@@ -60,8 +60,6 @@ The use of DDUL:
 
 In Matlab, you should chose the 0 or 1 to select synthetic or field data. In Python, you should chose the Input_patches of 2D/3D synthetic or field data. It is important that yc_patch.m, yc_patch_inv.m, yc_patch3d.m, and yc_patch3d_inv.m come from "Fast dictionary learning for noise attenuation of multidimensional seismicdata", and introduced in detail in (https://github.com/chenyk1990/reproducible_research).
 
-### Results
-
 
 
 
