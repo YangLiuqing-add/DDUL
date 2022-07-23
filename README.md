@@ -19,7 +19,6 @@ By [Liuqing Yang](https://www.researchgate.net/profile/Liuqing-Yang-22), [Shoudo
 0. [Citation](#citation)
 0. [Abstract](#abstract)
 0. [Model](#model)
-0. [Results](#results)
 
 ### Introduction
 
