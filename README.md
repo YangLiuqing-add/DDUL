@@ -34,6 +34,7 @@ If you use this model in your research, please cite:
      author={Yang, Liuqing and Wang, Shoudong and Chen, Xiaohong and Saad, Omar M and Chen, Wei and Oboué, Yapo Abolé Serge Innocent and Chen, Yangkang},
      journal={IEEE Transactions on Geoscience and Remote Sensing},
      year={2021},
+     volume={60},
      pages = {doi: 10.1109/TGRS.2021.3100455},
      publisher={IEEE}
     }     
