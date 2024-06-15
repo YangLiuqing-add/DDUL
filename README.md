@@ -19,7 +19,6 @@ By [Liuqing Yang](https://www.researchgate.net/profile/Liuqing-Yang-22), [Shoudo
 0. [Citation](#citation)
 0. [Abstract](#abstract)
 0. [Model](#model)
-0. [Dependence Packages](#dependence packages)
 
 ### Introduction
 
@@ -54,9 +53,11 @@ The use of DDUL:
  	- Second, run "Step2_DDUL.ipynb" in Python. 
  	- Third, run "Step3_UnPatching_3D.m" in Matlab.  
     
-## Dependence Packages
+### Dependence Packages
 * Tensforflow-gpu 1.9.0 
 * Keras 2.2.5
+
+
 
 **Note**
 
