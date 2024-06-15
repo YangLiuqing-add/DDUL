@@ -46,10 +46,7 @@ Effective random noise attenuation is critical for subsequent processing of seis
 
 The use of DDUL: 
 
-0. For 2D seismic data:
- 	- First, run "Step1_Patching.m" in Matlab. 
- 	- Second, run "Step2_DDUL.ipynb" in Python. 
- 	- Third, run "Step3_UnPatching.m" in Matlab. 
+0. For 2D seismic data: Run the DDUL_2Dsyn_patch.ipynb. This file includes the method for calculating the local similarity map. Please pip install [pyortho](https://github.com/chenyk1990/pyortho).
 
 0. For 3D seismic data: 
  	- First, run "Step1_Patching_3D.m" in Matlab. 
@@ -58,7 +55,7 @@ The use of DDUL:
 
 **Note**
 
-In Matlab, you should chose the 0 or 1 to select synthetic or field data. In Python, you should chose the Input_patches of 2D/3D synthetic or field data. It is important that yc_patch.m, yc_patch_inv.m, yc_patch3d.m, and yc_patch3d_inv.m come from "Fast dictionary learning for noise attenuation of multidimensional seismicdata", and introduced in detail in (https://github.com/chenyk1990/reproducible_research).
+In Matlab, you should choose 0 or 1 to select synthetic or field data. In Python, you should choose the Input_patches of 2D/3D synthetic or field data. It is important that yc_patch3d.m and yc_patch3d_inv.m come from "Fast dictionary learning for noise attenuation of multidimensional seismic data," and are introduced in detail in (https://github.com/chenyk1990/reproducible_research).
 
 
 
