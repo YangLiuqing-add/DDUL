@@ -46,12 +46,14 @@ Effective random noise attenuation is critical for subsequent processing of seis
 
 The use of DDUL: 
 
-0. For 2D seismic data: Run the DDUL_2Dsyn_patch.ipynb. This file includes the method for calculating the local similarity map. Please pip install [pyortho](https://github.com/chenyk1990/pyortho).
+0. For 2D seismic data: Run the DDUL_2Dsyn_patch.ipynb. 
 
 0. For 3D seismic data: 
  	- First, run "Step1_Patching_3D.m" in Matlab. 
  	- Second, run "DDUL_3Dsyn_patch.ipynb" in Python. 
-    
+
+These files include the method for calculating the local similarity map. Please pip install [pyortho](https://github.com/chenyk1990/pyortho).
+
 ### Dependence Packages
 * Tensforflow-gpu 1.9.0 
 * Keras 2.2.5
