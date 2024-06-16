@@ -50,8 +50,7 @@ The use of DDUL:
 
 0. For 3D seismic data: 
  	- First, run "Step1_Patching_3D.m" in Matlab. 
- 	- Second, run "Step2_DDUL.ipynb" in Python. 
- 	- Third, run "Step3_UnPatching_3D.m" in Matlab.  
+ 	- Second, run "DDUL_3Dsyn_patch.ipynb" in Python. 
     
 ### Dependence Packages
 * Tensforflow-gpu 1.9.0 
@@ -61,7 +60,7 @@ The use of DDUL:
 
 **Note**
 
-In Matlab, you should choose 0 or 1 to select synthetic or field data. In Python, you should choose the Input_patches of 2D/3D synthetic or field data. It is important that yc_patch3d.m and yc_patch3d_inv.m come from "Fast dictionary learning for noise attenuation of multidimensional seismic data," and are introduced in detail in (https://github.com/chenyk1990/reproducible_research).
+In Matlab, you should choose 0 or 1 to select synthetic or field data. In Python, you should choose the Input_patches of 2D/3D synthetic or field data. It is important that the yc_patch3d.m comes from "Fast dictionary learning for noise attenuation of multidimensional seismic data" and is introduced in detail in (https://github.com/chenyk1990/reproducible_research).
 
 
 
