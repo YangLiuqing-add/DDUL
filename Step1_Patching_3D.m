@@ -20,7 +20,7 @@ select = 0;
 
 switch select
     case 0
-    load 3Dsyn_example2
+    load Datasets/3Dsyn_data
     % obtain the SNR of the noisy data (only valid for synthetic example)
     fprintf('The SNR of the Noisy data is %0.3f \n',yc_snr(DataClean,DataNoisy,2))
     case 1
@@ -38,7 +38,7 @@ s2z =1;
 s3z =1;
 dn_patch = yc_patch3d(dn,1,w1,w2,w3,s1z,s2z,s3z);
 % It is better to save .mat as -V 7.3 or later because the size of the generated patch is large.
-save('Input_Patches_3Dsyn2','dn_patch','-V7.3');
+save('Input_Patches_3Dsyn','dn_patch','-V7.3');
 
 
 
