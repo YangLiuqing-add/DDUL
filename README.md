@@ -57,6 +57,10 @@ These files include the method for calculating the local similarity map. Please 
 ### Dependence Packages
 * Tensforflow-gpu 1.9.0 
 * Keras 2.2.5
+* 
+* If the Tensorflow version is 2.*, please add the following code:"
+  import tensorflow.compat.v1 as tf
+  tf.disable_v2_behavior()
 
 
 
