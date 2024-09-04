@@ -55,9 +55,10 @@ The use of DDUL:
 These files include the method for calculating the local similarity map. Please pip install [pyortho](https://github.com/chenyk1990/pyortho).
 
 ### Dependence Packages
-* Tensforflow-gpu 1.9.0 (If the Tensorflow version is 2.*, please add the following code:"
+* Tensforflow-gpu 1.9.0
+  If the Tensorflow version is 2.*, please add the following code:
   import tensorflow.compat.v1 as tf
-  tf.disable_v2_behavior())
+  tf.disable_v2_behavior()
 * Keras 2.2.5
 
 
